@@ -1,29 +1,74 @@
-<img height='300' src='https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-09/robot-code-robotics-robotic-programming-language.png' alt='coding' width="100%">
-<h1 align="center">Hi 👋, I'm Md.Shahiduzzaman</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align='right' src='https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif' alt='coding' width="500">
+# Md Shahiduzzaman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahiduzzamansony&label=Profile%20views&color=0e75b6&style=flat" alt="shahiduzzamansony" /> </p>
+**Business Analytics and Data Analytics** · Queens, New York, USA
 
-<p align="left"> <a href="https://twitter.com/shahidu60727289" target="blank"><img src="https://img.shields.io/twitter/follow/shahidu60727289?logo=twitter&style=for-the-badge" alt="shahidu60727289" /></a> </p>
+I build reproducible analyses of U.S. public data. Each project starts from a
+decision someone would actually make, states what the evidence can and cannot
+support, and publishes every figure from a recorded run.
 
-- 👨‍💻 All of my projects are available at [https://mdshahiduzzaman-portfolio.netlify.app/](https://mdshahiduzzaman-portfolio.netlify.app/)
+My background is in public administration, and I am completing a Master of
+Science in Business Analytics at Trine University. That combination is the
+thing I find most useful: public administration is largely about how
+organisations decide, and analytics is about what they decide with.
 
-- 📫 How to reach me **shahiduzzamansony2703@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sQcsl8S-lThd0Cj5FkmkDGI0EHcdtzol/view?usp=sharing](https://drive.google.com/file/d/1sQcsl8S-lThd0Cj5FkmkDGI0EHcdtzol/view?usp=sharing)
+## Completed projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahidu60727289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahidu60727289" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-shahiduzzaman-a80231241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shahiduzzaman-a80231241" height="30" width="40" /></a>
-</p>
+| Project | Question it answers | Result |
+| --- | --- | --- |
+| [U.S. Retail Sales Forecasting](https://github.com/shahiduzzamansony/us-retail-sales-forecasting) | Which U.S. retail categories show predictable monthly patterns, and how accurately can a simple model… | **1.41%** — held-out WAPE, most predictable category |
+| [U.S. Consumer Complaint Intelligence](https://github.com/shahiduzzamansony/us-consumer-complaint-intelligence) | What reported product and issue patterns should a customer experience team investigate, and can complaint… | **0.951** — held-out macro-F1, narrative routing |
+| [NYC Taxi Demand and Revenue Analysis](https://github.com/shahiduzzamansony/nyc-taxi-demand-and-revenue) | Which pickup-zone and time combinations have consistent recorded activity and fare patterns, and how well… | **3.22** — held-out MAE, pickups per zone-hour |
+| [U.S. Workforce Location Strategy](https://github.com/shahiduzzamansony/us-workforce-location-strategy) | Which selected U.S. counties offer different combinations of industry employment scale, concentration,… | **48,360** — workers in the most specialised county studied |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahiduzzamansony&show_icons=true&locale=en&layout=compact" alt="shahiduzzamansony" /></p>
+Every figure in the Result column is read from that project's own `reports/metrics.json`, produced by executing its pipeline. 4 of 10 planned projects are complete; the rest are not listed until they have produced measured results.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahiduzzamansony&show_icons=true&locale=en" alt="shahiduzzamansony" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahiduzzamansony&" alt="shahiduzzamansony" /></p>
+## How these are built
+
+Every repository follows the same discipline:
+
+- **Real data, acquired by code.** Each project downloads from the official
+  source, records the URL, retrieval time, SHA-256 and row counts, and
+  reconciles what it received against the provider's own count where one
+  exists.
+- **A data contract that stops the build.** A missing month, a duplicated
+  grain, a suppressed value that survived as a zero — these raise rather than
+  producing a confident wrong number.
+- **Named denominators.** Every rate states the population it is a share of,
+  in the output rather than in a footnote.
+- **Honest evaluation.** Chronological splits, a baseline that is genuinely
+  hard to beat, and a loss reported as a loss.
+- **Limitations that are specific.** Each project says what its data cannot
+  answer, not just what it can.
+
+Results carry a run identifier tying them to a manifest with the configuration,
+source checksums, package versions and code commit. Metrics that could not be
+measured are absent rather than estimated.
+
+---
+
+## Tools shown in the linked work
+
+`DuckDB` · `Parquet` · `Plotly` · `Python` · `SQL` · `Streamlit` · `matplotlib` · `openpyxl` · `pandas` · `scikit-learn` · `statsmodels`
+
+Listed only where a linked repository actually uses the tool.
+
+---
+
+## Elsewhere
+
+- **Portfolio:** https://shahiduzzamansony.github.io/
+- **Email:** shahiduzzamansony2703@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/md-shahiduzzaman-a80231241/
+- **Google Scholar:** https://scholar.google.com/citations?user=etBV2wQAAAAJ&hl=en
+
+---
+
+*These are independent case studies. No organisation commissioned, reviewed or
+endorsed them, and the stakeholders they describe are scoping devices rather
+than people who were consulted. Earlier web-development work from 2022 remains
+in the repository list; the analytics projects above are the current work.*
